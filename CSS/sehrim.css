@@ -2,7 +2,7 @@
     .menu{
         list-style: none;
         display: flex;
-        justify-content:space-around;
+        justify-content:space-between;
         flex-wrap: wrap;
         background-color: orange;
     }
@@ -24,8 +24,7 @@
         display: block;
         padding: 1.6rem;
         background: black;
-        text-decoration: none;
-        color: orange;
+
     }
     
     .menu li:last-child a{
